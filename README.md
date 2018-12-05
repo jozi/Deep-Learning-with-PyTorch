@@ -1,4 +1,5 @@
 # Deep Learning with PyTorch
+Jozi Test 
 This is the code repository for [Deep Learning with PyTorch](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch?utm_source=github&utm_medium=repository&utm_campaign=9781788624336), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Deep Learning is powering the most intelligent systems in the world such as Google Voice, Siri, and Alexa. Advancements in powerful hardware such as GPU, software frameworks like PyTorch, Keras, Tensorflow, CNTK, etc and availability of big data have made it easier to implement solutions for various problems in the areas of Text, Vision, and advanced analytics.
